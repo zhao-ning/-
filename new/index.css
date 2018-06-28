@@ -39,6 +39,7 @@ ul,li,ol{
 	color:#c03def;
 }
 .n{
+
 	margin: 0 auto;
 	margin-top: 20px;
 	width: 100%;
@@ -66,8 +67,9 @@ ul,li,ol{
 
 }
 .d1{
+	padding: 30px 10px 0 10px;
 	float: left;
-	padding-top: 30px;
+	
 	width: 680px;
 	height:1000px;
 	overflow: hidden;
