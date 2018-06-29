@@ -31,11 +31,15 @@ ul,li,ol{
 	float: left;
 	width: 600px;
 	height:200px;
-	padding-top: 100px;
-	padding-left: 50px
+	padding-top: 50px;
+	padding-left: 25px
 }
 .ft1{
 	font-size: 40px;
+	color:#c03def;
+}
+.ft2{
+	font-size: 30px;
 	color:#c03def;
 }
 .n{
@@ -50,9 +54,14 @@ ul,li,ol{
 	padding-top: 15px;
 	background-color:white;
 }
+.d{
+	margin: 0 auto;
+	width: 1200px;
+	height: 1600px;
+}
 .d0{
 	float: left;
-	width: 324px;
+	width: 300px;
 	float: left;
 	height:1000px;
 	overflow: hidden;
@@ -60,18 +69,16 @@ ul,li,ol{
 }
 .d01{
 	float: left;
-	left: 0px;
-	width: 320px;
+	width: 300px;
 	height:1000px;
-		overflow: hidden;
+	overflow: hidden;
 
 }
 .d1{
 	padding: 30px 10px 0 10px;
 	float: left;
-	
-	width: 680px;
-	height:1000px;
+	width: 580px;
+	height:1200px;
 	overflow: hidden;
 	font-size: 20px;
 	line-height: 23px;
